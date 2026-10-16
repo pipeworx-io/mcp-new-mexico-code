@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-new-mexico-code",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "New Mexico Statutes Annotated 1978 (NMSA 1978) — section lookup, chapter list, and catchline search. Closes one of the four remaining 50-state gaps (fleet #2884, Bruce 2026-10-09; Arkansas, Mississippi and Tennessee are the other three).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-82665daa6ec05883f75b1ace925c4b9b5c3150495dd67396aa118a09e67566d7",
-    "sourceCommit": "fe38188882d0fe91e5a45d82b7b989b4aae1e8b6"
+    "sourceHash": "v1-6ab7384af29e4f81bc083936b3bfb4ce6db6fd892f0b09d7025787e5ace2a643",
+    "sourceCommit": "a03f96ed672b8c149593c64ecbf30280cabf084c"
   }
 }
