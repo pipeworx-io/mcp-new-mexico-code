@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/new-mexico-code",
   "title": "New Mexico Code",
   "description": "New Mexico Statutes Annotated 1978 (NMSA 1978) — section lookup, chapter list, and catchline…",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "websiteUrl": "https://pipeworx.io/packs/new-mexico-code",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-new-mexico-code",
