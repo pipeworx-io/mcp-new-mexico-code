@@ -3,7 +3,7 @@
 // hand-edit — re-run the script instead (see its own header for the refresh
 // path).
 // Source: https://nmonesource.com/nmos/nmsa/en/nav_alpha.do + each chapter's own https://nmonesource.com/nmos/nmsa/en/<itemId>/1/document.do outline
-// Captured: 2026-10-11T15:21:44.214Z
+// Captured: 2026-10-18T12:59:54.968Z
 
 export interface NmChapterRow {
   chapter: string;
@@ -14,7 +14,7 @@ export interface NmChapterRow {
 /** [citation ("30-2-1" / "30-1-9.1"), officialCatchline, chapterIndex into NM_CHAPTERS] */
 export type NmSectionRow = [string, string, number];
 
-export const NM_INDEX_CAPTURED_AT = "2026-10-11T15:21:44.214Z";
+export const NM_INDEX_CAPTURED_AT = "2026-10-18T12:59:54.968Z";
 
 export const NM_CHAPTERS: NmChapterRow[] = [
   { chapter: "1", chapterName: "Elections", itemId: 4351 },
